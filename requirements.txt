@@ -2,3 +2,4 @@ streamlit
 matplotlib
 numpy  # Include any other dependencies
 pandas  # If you're using pandas
+seaborn
